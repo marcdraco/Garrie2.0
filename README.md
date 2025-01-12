@@ -1,6 +1,7 @@
 # Garrie2.0
 32 line DIP experimenter's board for small projects.
-![image](https://github.com/user-attachments/assets/66a7821b-c15a-4372-b611-ac66303fc328)
+![image](https://github.com/user-attachments/assets/f675ebf4-8586-4297-bf22-95d03d5c9db7)
+
 
 This very simple, dual layer board provides power rails for 0 and split supples (or at your option) a single supply and and output bus.
 
